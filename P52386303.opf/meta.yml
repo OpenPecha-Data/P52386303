@@ -1,0 +1,91 @@
+id: P52386303
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG11939
+  instance_id: http://purl.bdrc.io/resource/IE1KG11939
+  collection_id: http://purl.bdrc.io/resource/PR0ET004
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་འབུམ། དཔལ་ལྡན་དོན་གྲུབ།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P779
+  publisher: GuruLamaWorks
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    ba07787f088543f994e3c838fcbf6b6f:
+      title: ༄༅།་།མཁས་གྲུབ་དཔལ་ལྡན་དོན་གྲུབ་ཀྱི་གསུང་འབུམ་དཀར་ཆག་བཞུགས་སོ།་།དགེ་ལེགས་འཕེལ་བར་གྱུར་ཅིགསྭསྟི།བླ་མ་དམ་པའི་ཞབས་ལ་གུས་པས་ཕྱག་འཚལ
+      volume_number: 1
+      base_file: UT1KG11939_001_0000.txt
+      reference: http://purl.bdrc.io/resource/VLD04B3030143A6D41
+      image_group: null
+      quality: null
+    14b67d34f28f49f8b96bf7d1cb235d6c:
+      title: ༄༅།་།བར་དོ་ངོ་སྤྲོད་ཀྱི་གདམས་པ་མཐར་ལམ་གསལ་བྱེད་བཞུགས་སོ།་།ན་མསྶངྒུ་རུ་པཱ་ད་ཡ།རྒྱ་ཆེན་ཚོགས་གཉིས་དཔུང་གི་རྒྱལ་ཐབས་ཀྱིས།་།མི་ཟད་
+      volume_number: 7
+      base_file: UT1KG11939_007_0000.txt
+      reference: http://purl.bdrc.io/resource/VL219468DFF0DCB3FE
+      image_group: null
+      quality: null
+    be965fac7b4842c0be77aa36c094c2ec:
+      title: ༄༅།་།རྒྱུད་ཀྱི་མངོན་པར་རྟོགས་པ་རིན་པོ་ཆེའི་ལྗོན་ཤིང་མཛེས་པར་བྱེད་པའི་རྒྱན་ཞེས་བྱ་བའི་བསྟན་བཅོས་ཀྱི་སྔོན་འགྲོ་རྒྱ་ཆེར་བཤད་པ་བློ་
+      volume_number: 5
+      base_file: UT1KG11939_005_0000.txt
+      reference: http://purl.bdrc.io/resource/VLBA4E43D442B86AB7
+      image_group: null
+      quality: null
+    11f4f454fd60401d95e882f75f74d0c3:
+      title: ༄༅།་།ཐུགས་རྗེ་ཆེན་པོ་གཙོ་འཁོར་གསུམ་ས་ལུགས་ཀྱི་ཆོ་ག་འཕགས་པ་མཉེས་བྱེད་བཞུགས་སོ།་།ན་མསྶད་གུ་རུ་པཱ་དཱ་ཡ།གྲངས་མེད་བསྐལ་པར་ཚོགས་གཉིས
+      volume_number: 2
+      base_file: UT1KG11939_002_0000.txt
+      reference: http://purl.bdrc.io/resource/VL7F17568E49756B08
+      image_group: null
+      quality: null
+    0d561c672b7c4b7e99617d0f905e4621:
+      title: ༄༅།་།རབ་འབྱམས་སྨྲ་བ་ཀུན་དགའ་བཀྲ་ཤིས་ཀྱིས་དྲིས་ལན་དོན་མཚན་ལྔ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།་།རབ་འབྱམས་སྒྲུབ་པའི་རྒྱ་མཚན་འཛིན་པར་དགེས་པ་ཁྱ
+      volume_number: 8
+      base_file: UT1KG11939_008_0000.txt
+      reference: http://purl.bdrc.io/resource/VLB5153ACD3A44ACE8
+      image_group: null
+      quality: null
+    63d02a58f9ba4f708b3acf7f0efeee08:
+      title: ༄༅།་།ངོར་མཁན་པོ་དཔལ་ལྡན་དོན་གྲུབ་ཀྱི་གསུང་འབུམ་དཀར་ཆག།༠༠༡མཁས་གྲུབ་དཔལ་ལྡན་དོན་གྲུབ་ཀྱི་གསུང་འབུམ་དཀར་ཆག༠༠༢ཐུགས་རྗེ་ཆེན་པོ་གཙོ་འ
+      volume_number: 10
+      base_file: UT1KG11939_010_0000.txt
+      reference: http://purl.bdrc.io/resource/VLA6206F7AFCF0028E
+      image_group: null
+      quality: null
+    daa3605787b64d1aabe7ba725275bffc:
+      title: ༄༅།་།གཙུག་ཏོར་རྣམ་པར་རྒྱལ་མའི་ཆོས་སྐོར་གྱི་རྣམ་གཞག་རབ་ཏུ་གསལ་བ་ཞེས་བྱ་བ་བཞུགས་སོ།་།ན་མོ་གུ་རུ་ཝེ།བདེ་གཤེགས་གསེར་འོད་སེང་གེ་རྣམ
+      volume_number: 3
+      base_file: UT1KG11939_003_0000.txt
+      reference: http://purl.bdrc.io/resource/VLE584D4EF6F19F498
+      image_group: null
+      quality: null
+    4489bd81e908487eb47c2fe05584e573:
+      title: ༄༅།་།གསང་བདག་འབྱུང་པོ་འདུལ་བྱེད་ཀྱི་རྗེས་གནང་གི་བླ་མ་བརྒྱུད་པ་ལ་གསོལ་བ་འདེབས་པའི་རབ་ཏུ་བྱེད་པ་བཞུགས་སོ།་།ན་མོ་གུ་ར་ཝེ།རྒྱལ་བ་ཀ
+      volume_number: 6
+      base_file: UT1KG11939_006_0000.txt
+      reference: http://purl.bdrc.io/resource/VL2A977C5428939B47
+      image_group: null
+      quality: null
+    f07acc778b5141628ce2f8664eab2e16:
+      title: ༄༅།་།དཔལ་ཀྱཻ་རྡོ་རྗེ་ལ་བརྟེན་པའི་ལས་བཞིའི་སྦྱིན་སྲེག་གི་རྣམ་པར་བཤད་པ་ཡེ་ཤེས་མེ་ཕུང་ཞེས་བྱ་བ་བཞུགས་སོ།་།བཀྲ་ཤིས་པར་གྱུར་ཅིག།་།
+      volume_number: 4
+      base_file: UT1KG11939_004_0000.txt
+      reference: http://purl.bdrc.io/resource/VL3048E80177CFBA6E
+      image_group: null
+      quality: null
+    5446586005b444ca93928563f08ce000:
+      title: ༄༅།་།གཞུང་ལུགས་རབ་འབྱམས་པ་སྨྲ་བའི་མཁས་པ་ལེགས་པ་ཆོས་འཕེལ་གྱིས་དྲིས་ལན་ནོར་བུའི་འཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ།་།དགེ་ལེགས་འཕེལ་བར་གྱུ
+      volume_number: 9
+      base_file: UT1KG11939_009_0000.txt
+      reference: http://purl.bdrc.io/resource/VLE3A2335DBCDB67C4
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG11939
+  - http://purl.bdrc.io/resource/W1KG11939
+created_at: '2021-12-24T17:08:13.946781'
+last_modified_at: '2021-12-24T17:08:13.946789'
